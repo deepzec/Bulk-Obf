@@ -8,7 +8,7 @@ echo "
 
 == Bulk malicious domain Obfuscation | De-obfuscation tool ==
 
-By DeepZec
+By DeepZec | twitter.com/DeepZec | github.com/deepzec
 "
 filename="$1"
 display_usage() { 
