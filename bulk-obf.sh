@@ -6,7 +6,7 @@ echo "
     | |_) | |_| | |___| . \_____| |_| | |_) |  _|  
     |____/ \___/|_____|_|\_\     \___/|____/|_|
 
-== Bulk malicious domain Obfuscation|Deobfuscation tool ==
+== Bulk malicious domain Obfuscation | De-obfuscation tool ==
 
 By DeepZec
 "
