@@ -1,6 +1,6 @@
 # Bulk-Obf
 
-Simple bash script to Obfuscate | De-Obfuscate bulk malicious domain list
+A simple bash script to Obfuscate | De-Obfuscate bulk malicious domains list
 
 
 ### Install:
@@ -16,7 +16,7 @@ Simple bash script to Obfuscate | De-Obfuscate bulk malicious domain list
     | |_) | |_| | |___| . \_____| |_| | |_) |  _|
     |____/ \___/|_____|_|\_\     \___/|____/|_|
 
-== Bulk malicious domain Obfuscation|Deobfuscation tool ==
+== Bulk malicious domain Obfuscation | De-obfuscation tool ==
 
 By DeepZec
 
@@ -26,4 +26,4 @@ Usage:
 
 
  Example:
-./bulk_obf.sh domain.txt 1
+./bulk_obf.sh domains.txt 1
