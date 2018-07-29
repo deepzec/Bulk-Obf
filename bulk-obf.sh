@@ -14,7 +14,7 @@ filename="$1"
 display_usage() { 
  
 	echo -e "\nUsage:\n./bulk_obf.sh [input_file]  [1: Obfuscation | 2: Deobfuscation] \n" 
-	echo -e "\n Example:\n./bulk_obf.sh domain.txt 1 \n"
+	echo -e "\n Example:\n./bulk_obf.sh domains.txt 1 \n"
 		}
 if [  $# -le 1 ]; 
 	then 
